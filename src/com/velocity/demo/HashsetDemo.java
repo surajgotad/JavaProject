@@ -9,7 +9,7 @@ public class HashsetDemo {
 		hash.add(200);
 		hash.add(300);
 		
-		System.out.println(hash);
+		hash.stream().forEach(x->System.out.println(x));
 	}
 
 }
