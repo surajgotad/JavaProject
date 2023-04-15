@@ -1,3 +1,7 @@
 public class Demo{
-//New Class Is Added
+public static void main(String[] args) {
+		String str="heloo java"
+	
+System.out.println(str);
+	}
 }
